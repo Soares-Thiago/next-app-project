@@ -13,3 +13,15 @@
     <li>Inicie o projeto com o comando 'Yarn dev'</li>
   </ul>
 </p>
+
+<h2 align="center">
+💻 Tencologias utilizadas
+</h2>
+<p align="center"> 
+  <ul>
+    <li>TypeScript</li>
+    <li>Css</li>
+    <li>Next</li>
+    <li>React</li>
+  </ul>
+</p>
